@@ -2,7 +2,7 @@
   "target": "hermes",
   "sources": {
     "breadcrumbs-hermes": {
-      "commit": "3e69ef7868b9a149670d6a20837b7fb591601697",
+      "commit": "55d7151c5e701bf82b9c7fe116ce05a020dff4f1",
       "clean": true
     },
     "breadcrumbs-common": {
